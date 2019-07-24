@@ -17,25 +17,25 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>itunes显示图片地址</string>
+                    <string>https://github.com/acalism/youpik/blob/master/Youpik-AppIcon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>安装应用显示的图片</string>
+                    <string>https://github.com/acalism/youpik/blob/master/Youpik-AppIcon.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>bundle ID</string>
+                <string>com.LazadaMS.ZAL</string>
                 <key>bundle-version</key>
-                <string>版本号</string>
+                <string>253</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Name</string>
+                <string>Youpik</string>
             </dict>
         </dict>
     </array>
